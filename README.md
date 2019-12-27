@@ -1,6 +1,7 @@
 # Tutorial Pusher
 Realtime aplikasi dengan menggunakan Pusher bisa dilihat pada:
 [Idmore Blog]()
+atau
 [Pusher Blog](https://blog.pusher.com/build-realtime-activity-feed-flask-pusher/).
 
 Cara menjalankan di Local:
