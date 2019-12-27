@@ -1,6 +1,6 @@
 # Tutorial Realtime Aplikasi Dengan Pusher
 Realtime aplikasi dengan menggunakan Pusher bisa dilihat pada:
-[Idmore Blog]()
+[Idmore Blog](https://academy.byidmore.com/id/post/Membuat-Aplikasi-Real-Time-Dengan-Pusher-5e0575d4c68efb370a1a0cd4)
 atau
 [Pusher Blog](https://blog.pusher.com/build-realtime-activity-feed-flask-pusher/).
 
