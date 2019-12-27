@@ -4,7 +4,7 @@ Realtime aplikasi dengan menggunakan Pusher bisa dilihat pada:
 [Pusher Blog](https://blog.pusher.com/build-realtime-activity-feed-flask-pusher/).
 
 Cara menjalankan di Local:
-- Clone/Download repo - `git clone https://github.com/olayinkaos/flask-realtime-activity-feed.git`
+- Clone/Download repo - `git clone https://github.com/idmore/realtime_app_with_pusher.git`
 - [Optional] Buat local virtual environment - `virtualenv .venv`
 - [Optional] Aktifkan virtual environment - `source .venv/bin/activate`
 - Install depedensi - `pip install -r requirements.txt`
